@@ -14,6 +14,7 @@ namespace LeetGrind
             //Remember: In leet they are not public static classes and methods, that is for real coding.
             //Remove static for submission. 
 
+            #region
             //Test of Roman
             //int paul = Roman.RomanToInt("xxv");
             //Console.WriteLine(paul);
@@ -30,6 +31,15 @@ namespace LeetGrind
             //    Console.WriteLine($"{i}");
             //}
 
+            //Test ContainsDuplicateTwo
+            //int[] myarray = {2,4,6,8,10,12 };
+            //int[] myarray2 = { 2, 4, 6, 8, 10, 12, 2 };
+            //bool mybool = ContainsDuplicateTwo.ContainsNearbyDuplicate(myarray, 12);
+            //Console.WriteLine(mybool);
+            //bool mybool2 = ContainsDuplicateTwo.ContainsNearbyDuplicate(myarray2, 12);
+            //Console.WriteLine(mybool2);
+
+            #endregion
 
 
 
