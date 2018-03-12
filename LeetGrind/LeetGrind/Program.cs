@@ -39,6 +39,10 @@ namespace LeetGrind
             //bool mybool2 = ContainsDuplicateTwo.ContainsNearbyDuplicate(myarray2, 12);
             //Console.WriteLine(mybool2);
 
+
+            //test hamming distance.
+            int myint = HammingDistance.HammingDistanceAnswer(5, 25);
+            Console.WriteLine($"{myint}");
             #endregion
 
 
