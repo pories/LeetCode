@@ -10,6 +10,8 @@ namespace LeetGrind.Easy
     public static class Roman
     {
         #region
+        //Given a roman numeral, convert it to an integer.
+        //Input is guaranteed to be within the range from 1 to 3999.
         public static int RomanToInt(string s)
 
         {

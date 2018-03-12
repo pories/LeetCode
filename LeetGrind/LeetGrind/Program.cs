@@ -22,9 +22,13 @@ namespace LeetGrind
             //int[] myarray = {2,4,6,8,10,12,14,16 };
             //int answer = ArrayPartition.ArrayPairSum(myarray);
 
-
-            Console.WriteLine($"{answer}");
-
+            //Test Fizzbuzz
+            //Console.WriteLine($"{answer}");
+            //IList<string> paul =  Fizzbuzz.FizzBuzzWork(25);
+            //foreach (string i in paul)
+            //{
+            //    Console.WriteLine($"{i}");
+            //}
 
 
 
