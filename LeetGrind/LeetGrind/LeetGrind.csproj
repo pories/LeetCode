@@ -47,6 +47,7 @@
     <Compile Include="Easy\ContainsDuplicateTwo.cs" />
     <Compile Include="Easy\Fizzbuzz.cs" />
     <Compile Include="Easy\HammingDistance.cs" />
+    <Compile Include="Easy\JudgeCircle.cs" />
     <Compile Include="Easy\Roman.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

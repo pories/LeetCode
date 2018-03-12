@@ -41,8 +41,15 @@ namespace LeetGrind
 
 
             //test hamming distance.
-            int myint = HammingDistance.HammingDistanceAnswer(5, 25);
-            Console.WriteLine($"{myint}");
+            //int myint = HammingDistance.HammingDistanceAnswer(5, 25);
+            //Console.WriteLine($"{myint}");
+
+
+            //testing robot moves 1.
+            bool circle = JudgeCircle.JudgeCircleNow("ULDR");
+            Console.WriteLine(circle);
+
+
             #endregion
 
 
