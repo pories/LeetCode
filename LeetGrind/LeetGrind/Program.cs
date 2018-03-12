@@ -76,6 +76,10 @@ namespace LeetGrind
             //    Console.WriteLine(i);
             //}
 
+
+            //Didn't test addtwonumbers.
+           
+
             #endregion
 
 

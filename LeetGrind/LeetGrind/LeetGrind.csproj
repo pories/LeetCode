@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Easy\AddTwoNumbers.cs" />
     <Compile Include="Easy\ArrayPartition.cs" />
     <Compile Include="Easy\ContainsDuplicateTwo.cs" />
     <Compile Include="Easy\Fizzbuzz.cs" />
