@@ -46,9 +46,35 @@ namespace LeetGrind
 
 
             //testing robot moves 1.
-            bool circle = JudgeCircle.JudgeCircleNow("ULDR");
-            Console.WriteLine(circle);
+            //bool circle = JudgeCircle.JudgeCircleNow("ULDR");
+            //Console.WriteLine(circle);
 
+            //testing findwords.
+            //string[] myarray1 = { "two", "Three", "has", "Hello" };
+            ////testing findwords1.
+            //string[] answer1 = KeyBoardRow.FindWords1(myarray1);
+            //foreach (var i in answer1)
+            //{
+            //    Console.Write("Findwords1:");
+            //    Console.WriteLine(i);
+            //}
+
+            ////testing findwords2.
+            //string[] answer2 = KeyBoardRow.FindWords2(myarray1);
+            //foreach (var i in answer2)
+            //{
+            //    Console.Write("Findwords2:");
+            //    Console.WriteLine(i);
+            //}
+
+            ////testing findwords3.
+
+            //string[] answer3 = KeyBoardRow.FindWords3(myarray1);
+            //foreach (var i in answer3)
+            //{
+            //    Console.Write("Findwords3:");
+            //    Console.WriteLine(i);
+            //}
 
             #endregion
 
