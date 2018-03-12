@@ -9,7 +9,7 @@ namespace LeetGrind.Easy
 {
     public static class Roman
     {
-
+        #region
         public static int RomanToInt(string s)
 
         {
@@ -45,5 +45,7 @@ namespace LeetGrind.Easy
             }
             return number;
         }
+        #endregion
     }
+
 }
