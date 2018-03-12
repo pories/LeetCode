@@ -76,9 +76,12 @@ namespace LeetGrind
             //    Console.WriteLine(i);
             //}
 
+            //Testing Palindrome
+            //bool isit = Palindrome.IsPalindrome(7878);
+            //Console.WriteLine(isit);
 
-            //Didn't test addtwonumbers.
-           
+
+
 
             #endregion
 

@@ -50,6 +50,7 @@
     <Compile Include="Easy\HammingDistance.cs" />
     <Compile Include="Easy\JudgeCircle.cs" />
     <Compile Include="Easy\KeyBoardRow.cs" />
+    <Compile Include="Easy\Palindrome.cs" />
     <Compile Include="Easy\Roman.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
